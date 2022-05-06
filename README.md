@@ -24,7 +24,7 @@ We have used BeautifulSoup and Splinter to scrape full-resolution images of Mars
 
 ![MarsHemispheresDetail](https://user-images.githubusercontent.com/93893263/167068424-32e9e3d0-0cad-4e7b-ae7b-b6ad8f1d1aa3.png)
 
-## Wed-Responsive format for a compatible view
+## Web-Responsive format for a compatible view
 
 ![iphone image](https://user-images.githubusercontent.com/93893263/167068553-56c570b2-2042-4749-959a-0bbce457d38f.png)  ![surfacePro](https://user-images.githubusercontent.com/93893263/167068572-701bce79-4ff1-4713-aca8-252b7f8b88f1.png)
 
